@@ -8,7 +8,7 @@ https://adr.github.io/madr/#example
 
 https://github.com/adr/adr.github.io/blob/main/index.md
 
-https://github.com/joelparkerhenderson/architecture-decision-record/tree/main/templates
+https://github.com/joelparkerhenderson/architecture-decision-record/tree/main
 
 https://cloud.google.com/architecture/architecture-decision-records
 
