@@ -4,7 +4,7 @@
 
 {A graphic that can be used to represent this pattern in more complex solutions, regardless of how the pattern is implemented. It is particularly useful in the Solution Views section to help keep some of the views from being overly cluttered with detail.}
 
-## Conditions and Obstacle
+## Context
 
 {This section sets up the operating conditions of a system exhibiting a type of problem that needs to be solved. The obstacle to be overcome should be described in a manner that naturally leads the reader to the solution.}
 
